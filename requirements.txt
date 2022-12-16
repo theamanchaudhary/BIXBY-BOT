@@ -1,1 +1,1 @@
-git+https://github.com/DX-MODS/pyrogram
+git+https://github.com/DX-MODS/pyrogra
