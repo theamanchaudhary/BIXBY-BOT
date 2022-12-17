@@ -7,17 +7,17 @@
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
         <img
-            src="https://readme-typing-svg.herokuapp.com?font=Hey+printing&color=5D0F99&size=32&lines=WELCOME+TO+BIXBY+AUTO;FILTER+BOT+MADE+BY;ZIYAN"
+            src="https://readme-typing-svg.herokuapp.com?font=Hey+printing&color=5D0F99&size=32&lines=WELCOME+TO+BIXBY+BOT+;MADE+BY ZIYAN"
             alt="Typing SVG"
         />
 </p>
-<a href="https://github.com/DX-MODS/BixbyAutoFilter/stargazers"><img src="https://img.shields.io/github/stars/DX-MODS/BixbyAutoFilter?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/DX-MODS/BixbyAutoFilter/network/members"> <img src="https://img.shields.io/github/forks/DX-MODS/BixbyAutoFilter?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/DX-MODS/BixbyAutoFilter/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/DX-MODS/BIXBY-BOT/stargazers"><img src="https://img.shields.io/github/stars/DX-MODS/BIXBY-BOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/DX-MODS/BIXBY-BOT/network/members"> <img src="https://img.shields.io/github/forks/DX-MODS/BIXBY-BOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/DX-MODS/BIXBY-BOT/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/DX-MODS/BixbyAutoFilter"> <img src="https://img.shields.io/github/repo-size/DX-MODS/BixbyAutoFilter?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/DX-MODS/BixbyAutoFilter/commits/DX-MODS"> <img src="https://img.shields.io/github/last-commit/DX-MODS/BixbyAutoFilter?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/DX-MODS/BIXBY-BOT"> <img src="https://img.shields.io/github/repo-size/DX-MODS/BIXBY-BOT?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/DX-MODS/BIXBY-BOT/commits/DX-MODS"> <img src="https://img.shields.io/github/last-commit/DX-MODS/BIXBY-BOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 
 <div align="left">
 
@@ -60,7 +60,7 @@
 <details><summary>Deploy To Koyeb</summary>
 <p>
 <br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/DX-MODS/BixbyAutoFilter&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[MAX_RIST_BTNS]=10&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URI]&env[DATABASE_NAME]=Cluster0&env[COLLECTION_NAME]=Telegram_files&env[SUPPORT_CHAT]&env[IMDB]=True&env[IMDB_TEMPLATE]&env[IMDB_DELET_TIME]=900&env[SINGLE_BUTTON]=True&env[START_MESSAGE]&env[FORCE_SUB_TEXT]&env[AUTH_GROUPS]&env[WELCOM_PIC]&env[WELCOM_TEXT]&env[BUTTON_LOCK_TEXT]&env[PMFILTER]=True&env[G_FILTER]=True&env[BUTTON_LOCK]=True&env[RemoveBG_API]&env[P_TTI_SHOW_OFF]=True&run_command=python%20bot.py&branch=master&name=bixbyautofilter">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/DX-MODS/BIXBY-BOT&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[MAX_RIST_BTNS]=10&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URI]&env[DATABASE_NAME]=Cluster0&env[COLLECTION_NAME]=Telegram_files&env[SUPPORT_CHAT]&env[IMDB]=True&env[IMDB_TEMPLATE]&env[IMDB_DELET_TIME]=900&env[SINGLE_BUTTON]=True&env[START_MESSAGE]&env[FORCE_SUB_TEXT]&env[AUTH_GROUPS]&env[WELCOM_PIC]&env[WELCOM_TEXT]&env[BUTTON_LOCK_TEXT]&env[PMFILTER]=True&env[G_FILTER]=True&env[BUTTON_LOCK]=True&env[RemoveBG_API]&env[P_TTI_SHOW_OFF]=True&run_command=python%20bot.py&branch=master&name=BIXBY-BOT">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -78,7 +78,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/DX-MODS/BixbyAutoFilter">
+<a href="https://heroku.com/deploy?template=https://github.com/DX-MODS/BIXBY-BOT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -123,6 +123,6 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/DX-MODS/BixbyAutoFilter/blob/master/LICENSE)
+Licensed under [GNU AGPL 2.0.](https://github.com/DX-MODS/BIXBY-BOT/blob/master/LICENSE)
 Don't copy the codes and re distribute without my license and credits is strictly prohibited as per the MIT license provided here
 
