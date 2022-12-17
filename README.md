@@ -64,9 +64,17 @@
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Qe0zMt)
 
-## Deploy to Heroku 
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/DX-MODS/BixbyAutoFilter">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DX-MODS/BixbyAutoFilter)
+
+
 
 ## Commands
 ```
