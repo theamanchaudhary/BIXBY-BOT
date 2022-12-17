@@ -56,7 +56,7 @@
 * `SINGLE_BUTTON` : choose b/w single or double buttons 
 * `P_TTI_SHOW_OFF` : Customize Result Buttons to Callback or Url by (True = url / False = callback)
 
-
+### Deploy
 <details><summary>Deploy To Koyeb</summary>
 <p>
 <br>
@@ -66,10 +66,14 @@
 </p>
 </details>
 
-## Deploy to Railway
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Qe0zMt)
-
+<details><summary>Deploy To Railway</summary>
+<p>
+<br>
+<a href="https://railway.app/new/template/Qe0zMt">
+  <img src="https://railway.app/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
