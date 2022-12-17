@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://telegra.ph/file/0137b122cd785074c1499.jpg" alt="JPG" width="250" height="250"/>
+</p>
+
+<div align="center">
 <!---------- Typing SVG ---------->
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
@@ -5,18 +10,6 @@
             src="https://readme-typing-svg.herokuapp.com?font=Hey+printing&color=5D0F99&size=32&lines=WELCOME+TO+BIXBY+MOWL;WHATSAPP+BOT+MADE+BY;ZIYAN"
             alt="Typing SVG"
         />
-    </a>
-</p>
-
-<div align="center">
-<img src="https://telegra.ph/file/0137b122cd785074c1499.jpg" alt="JPG" width="300" height="300"/>
-</p>
-
-<div align="center">
-  
-## [![BIXBY](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=5D0F99&lines=welcome+to+Bixby-mowl+Bot;+this+Bot+was+created+Ziyan;+this+is+the+first+wa+Bot+with+extraordinary+features )](https://bit.ly/2VM4lxF)
-
- </a>
 </p>
 <a href="https://github.com/DX-MODS/BixbyAutoFilter/stargazers"><img src="https://img.shields.io/github/stars/DX-MODS/BixbyAutoFilter?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/DX-MODS/BixbyAutoFilter/network/members"> <img src="https://img.shields.io/github/forks/DX-MODS/BixbyAutoFilter?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
