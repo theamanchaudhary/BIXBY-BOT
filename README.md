@@ -19,7 +19,9 @@
 <a href="https://github.com/DX-MODS/BixbyAutoFilter"> <img src="https://img.shields.io/github/repo-size/DX-MODS/BixbyAutoFilter?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://github.com/DX-MODS/BixbyAutoFilter/commits/DX-MODS"> <img src="https://img.shields.io/github/last-commit/DX-MODS/BixbyAutoFilter?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 
-## Features
+<div align="left">
+
+### Features
 
 - [x] Auto Filter
 - [x] Manual Filter
