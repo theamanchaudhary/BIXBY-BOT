@@ -10,7 +10,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝙱𝙸𝚇𝙱𝚈 𝙱𝙾𝚃  𝚟3.0.0"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/DX-MODS/BixbyAutoFilter>BIXBYAUTOFILTER</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/DX-MODS/BIXBY-BOT>BIXBYAUTOFILTER</a>
 
 <b>DEVS:</b>
 - 𝙳𝚎𝚟 1<a href=https://t.me/ZIYANSIR>ZIYAN TG</a>"""
@@ -33,7 +33,7 @@ class script(object):
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and Bixby  will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
 1. This bot should have admin privillage.
