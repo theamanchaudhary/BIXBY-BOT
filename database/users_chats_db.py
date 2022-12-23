@@ -1,4 +1,7 @@
-# https://github.com/odysseusmax/animated-lamp/blob/master/bot/database/database.py
+# Copyright (C) 2023 DX_MODS
+#Licensed under the  AGPL-3.0 License;
+#you may not use this file except in compliance with the License.
+#Author ZIYAN
 import motor.motor_asyncio
 from info import DATABASE_NAME, DATABASE_URI, IMDB, IMDB_TEMPLATE, MELCOW_NEW_USERS, P_TTI_SHOW_OFF, SINGLE_BUTTON, SPELL_CHECK_REPLY, PROTECT_CONTENT
 
