@@ -1,5 +1,3 @@
-# Kanged from https://github.com/KDBotz
-
 import io
 from pyrogram import filters, Client, enums
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
@@ -12,7 +10,7 @@ from database.gfilters_mdb import(
 )
 
 from database.connections_mdb import active_connection
-from utils import get_file_id, parser, split_quotes
+from utils import get_file_id, gparser as parser, split_quotes
 from info import ADMINS
 
 
@@ -148,8 +146,3 @@ async def delallgfill(client, message):
 async def dellacbd(client, message):
     await del_allg(message.message, 'gfilters')
     return await message.reply("👍 Done")
-
-
-
-
-
