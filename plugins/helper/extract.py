@@ -1,5 +1,4 @@
 from pyrogram.types import Message
-import tifrom pyrogram.types import Message
 import time
 from datetime import datetime, timedelta
 
