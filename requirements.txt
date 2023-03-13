@@ -9,7 +9,7 @@ pymongo[srv]==3.12.3
 marshmallow==3.14.1
 umongo==3.0.1
 motor==2.5.1
-git+https://github.com/DX-MODS/cinemagoer
+git+https://github.com/cinemagoer/cinemagoer
 opencv-python-headless==4.7.0.68
 googletrans==3.1.0a0
 telegraph==2.2.0
@@ -24,9 +24,6 @@ ujson
 wget
 pytz
 youtube-search-python
-
 youtube-search
-
 yt-dlp==2023.2.17
-
 speedtest==0.0.1
