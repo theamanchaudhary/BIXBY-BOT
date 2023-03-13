@@ -23,3 +23,10 @@ wheel
 ujson
 wget
 pytz
+youtube-search-python
+
+youtube-search
+
+yt-dlp==2023.2.17
+
+speedtest==0.0.1
