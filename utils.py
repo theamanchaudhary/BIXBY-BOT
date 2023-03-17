@@ -141,6 +141,9 @@ async def get_poster(query, bulk=False, id=False, file=None):
         'url':f'https://www.imdb.com/title/tt{movieid}'
     }
 # https://github.com/odysseusmax/animated-lamp/blob/2ef4730eb2b5f0596ed6d03e7b05243d93e3415b/bot/utils/broadcast.py#L37
+__repo__ = "https://github.com/DX-MODS/BIXBY-BOT"
+__license__ = "GNU GENERAL PUBLIC LICENSE V3"
+__copyright__ = "Copyright (C) 2023-DX MODS <https://github.com/DX-MODS>"
 __repo__ = "https://github.com/MrMKN/PROFESSOR-BOT"
 __license__ = "GNU GENERAL PUBLIC LICENSE V2"
 __copyright__ = "Copyright (C) 2023-present MrMKN <https://github.com/MrMKN>"
@@ -148,7 +151,7 @@ __copyright__ = "Copyright (C) 2023-present MrMKN <https://github.com/MrMKN>"
 async def search_gagala(text):
     usr_agent = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
-        'Chrome/61.0.3163.100 Safari/537.36'
+        'Chrome/109.0.5414.120
         }
     text = text.replace(" ", '+')
     url = f'https://www.google.com/search?q={text}'
