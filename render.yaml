@@ -12,12 +12,16 @@ services:
 
     startCommand: python3 -m Dxbots 
 
-    repo: https://github.com/DX-MODS/DxStreamerBot.git      
+    repo: https://github.com/DX-MODS/BIXBY-BOT.git      
 
     branch: main
 
     envVars:
-
+    
+      - key: WEBHOOK
+      
+        sync:false
+ 
       - key: BOT_TOKEN 
 
         sync: false
