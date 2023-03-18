@@ -1,9 +1,9 @@
-from helper.utils import progress_for_pyrogram, convert
+from database.utils import progress_for_pyrogram, convert
 from pyrogram import Client, filters
 from pyrogram.types import (  InlineKeyboardButton, InlineKeyboardMarkup,ForceReply)
 from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
-from helper.database import db
+from database.users_chats_db import db
 import os 
 import humanize
 from PIL import Image
