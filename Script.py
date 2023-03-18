@@ -333,19 +333,6 @@ Delete A Lot Of Messages From Groups!
 • /video or /mp4 𝘈𝘯𝘥 https://youtu.be/*****
 forward link
  """
-    PROGRESS_BAR = """\n
-
-╭━━━━❰ PROGRESS BAR ❱━➣
-
-┣⪼ 🗂️ : {1} | {2}
-
-┣⪼ ⏳️ : {0}%
-
-┣⪼ 🚀 : {3}/s
-
-┣⪼ ⏱️ : {4}
-
-╰━━━━━━━━━━━━━━━➣ """
 
 
 
