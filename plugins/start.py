@@ -6,7 +6,7 @@ import humanize
 import random
 from Script import script 
 from database.users_chats_db import db
-from info import FLOOD,ADMIN
+from info import FLOOD,ADMINS
 
 @Client.on_message(filters.private & (filters.document | filters.audio | filters.video))
 async def rename_start(client, message):
