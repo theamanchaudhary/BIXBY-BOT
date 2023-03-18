@@ -70,15 +70,11 @@ SHORT_API = environ.get("SHORT_API")
 # rename configs
 FLOOD = int(environ.get("FLOOD", "10"))
 
-RENAME_MODE = bool(environ.get("RENAME_MODE"))
 
-#Add user id of the user in this field those who you want to be Authentic user for file renaming features
 
-dx_renamers = [int(dxrenamers) if id_pattern.search(dxrenamers) else dxrenamers for dxrenamers in environ.get('DX_RENAMERS', '').split()]
 
-DX_RENAMERS = (dx_renamers + ADMINS) if dx_renamers else []
 
-REQ_CHANNEL = int(environ.get('REQ_CHANNEL'))
+
 
 # Others
 IMDB_DELET_TIME = int(environ.get('IMDB_DELET_TIME', "300"))
