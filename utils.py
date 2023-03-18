@@ -151,7 +151,7 @@ __copyright__ = "Copyright (C) 2023-present MrMKN <https://github.com/MrMKN>"
 async def search_gagala(text):
     usr_agent = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
-        'Chrome/109.0.5414.120
+        'Chrome/109.0.5414.120 Safari/537.36'
         }
     text = text.replace(" ", '+')
     url = f'https://www.google.com/search?q={text}'
