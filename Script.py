@@ -17,6 +17,14 @@ Thanks for thinking about us.\nIt seems that you really love <a href=https://t.m
 \nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/LazyDeveloperSupport>LazyDeveloper Support</a>\n\n
     """
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    
+    PROGRESS_BAR = """\n
+╭━━━━❰ PROGRESS BAR ❱━➣
+┣⪼ 🗂️ : {1} | {2}
+┣⪼ ⏳️ : {0}%
+┣⪼ 🚀 : {3}/s
+┣⪼ ⏱️ : {4}
+╰━━━━━━━━━━━━━━━➣ """
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/ZIYANSIR>ZIYAN TG</a>
