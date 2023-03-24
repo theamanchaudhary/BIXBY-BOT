@@ -11,6 +11,11 @@ async def viewthumb(client, message):
     else:
         await message.reply_text("😔**Sorry ! No thumbnail found...**😔") 
 		
+@Client.on_message(filters.private & filters.command(['delthumb']))
+async def removethumb(client, message):
+    await db.set_thumbnail(message.from_user.id, file_id=None)
+    await message.reply_text("**Thumbnail deleted successfully**✅️")
+	
 @Client.on_message(filters.private & filters.command("photo") & filters.photo)
 async def addthumbs(client, message):
  if message.reply_to_messge: 
