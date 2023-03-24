@@ -16,14 +16,7 @@ async def removethumb(client, message):
     await db.set_thumbnail(message.from_user.id, file_id=None)
     await message.reply_text("**Thumbnail deleted successfully**✅️")
 	
-@Client.on_message(filters.private & filters.command("photo") & filters.photo)
-async def addthumbs(client, message):
- if message.reply_to_messge: 
-    LazyDev = await message.reply_text("Please Wait ...")
-    await db.set_thumbnail(message.from_user.id, file_id=message.photo.file_id)                
-    await LazyDev.edit("Thumbnail saved successfully✅️")
-	
-@Client.on_message(filters.private & filters.command("photo") & filters.photo)
+@Client.on_message(filters.private & filters.command("thumbnail") & filters.photo)
 async def addthumbs(client, message):
  if message.reply_to_messge: 
     LazyDev = await message.reply_text("Please Wait ...")
