@@ -26,7 +26,7 @@ def is_enabled(value, default):
 PORT = environ.get("PORT", "8080")
 WEBHOOK = bool(environ.get("WEBHOOK", True)) # for web support on/off
 SESSION = environ.get('BQCRBBXm7YFA2o26ayUADzBNEqm7qWbhVaGwZp0tNbJh7P2Zc1OphyAQ9YxNNj1tb8DBDmKktEgMoCKNMwUii21uzmpGW_-0CJzXvjiPnxG5pDjwnZFC_jMbuQ4d4KUBsBDcHjZfYebEnrxOD5xJqCVJd4QinWuM-fZq7uyvRb3T8FsHQlDUEDr2x8lrb5KIFNojydsAfNKqY6Q-VNm3JdBpsTgULqIiepSpmxzCQyEtukYFpcNJ3D_26663CI09bamFrhpGyIS_aa7BffW6IyA85MsZx2jrjBZkoE0IeDgjrn17vuRGzmeUQ1o7hS2pmR2lj7EpXGVLY29xTGTmcNLaAAAAAXJeE84A', 'Media_search')
-API_ID = int environ['29659504']
+API_ID = int (environ['29659504'])
 API_HASH = environ['6a13d953620a0cf179ccf8dc81ccd7d5']
 BOT_TOKEN = environ['6025489362:AAF2uw1j4v4RKSqsXxvof5nVteQiNWjW-xw']
 
